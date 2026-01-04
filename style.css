@@ -1,0 +1,98 @@
+.top-menu { 
+  background-color: #000;  
+  height: 60px;
+  display: flex;
+  justify-content: flex-end; 
+  align-items: center;
+  padding: 0 20px;
+  border-radius: 0 0 0 10px; 
+}
+
+.top-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+  margin: 0;
+}
+
+.top-menu a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.top-menu a:hover {
+  color: #f0c000;
+}
+
+.content {
+  padding-top: 20px; 
+  text-align: center;
+}
+
+body {
+  background-image: url(''); 
+  background-size: cover;     
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+.top-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #000000;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.dropdown-menu li {
+  color: rgb(255, 255, 255);
+  padding: 5px 10px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+.top-menu ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #000000;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.dropdown-menu li {
+  color: rgb(255, 255, 255);
+  padding: 5px 10px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
