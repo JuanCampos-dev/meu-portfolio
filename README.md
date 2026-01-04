@@ -1,7 +1,7 @@
 # meu-portfolio
 meu primeiro site em HTML , CSS e JavaScript
 ## 🌐 Site do projeto
-👉 https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+👉 https://juancampos-dev.github.io/meu-projeto/
 
 ## 💻 Código
 Este repositório contém o código-fonte do site.
