@@ -1,5 +1,5 @@
 # meu-portfolio
-meu primeiro site em HTML , CSS e JavaScript
+Meu primeiro site com HTML e CSS 
 ## 🌐 Site do projeto
 👉 https://juancampos-dev.github.io/meu-portfolio/
 
